@@ -1,0 +1,17 @@
+.registration{
+    background-color: #E5E5E5;
+}
+.registration__form{
+    display: grid;
+    /* flex-direction: column; */
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+}
+.registration__form label {
+    display: block;
+}
+
+.line {
+    display: inline-grid;
+    border: 10px solid #000000;
+}

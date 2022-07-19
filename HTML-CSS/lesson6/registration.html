@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registration page</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <main class="registration">
+        <h2>Intake Main Flow</h2>
+        
+        <h4><span>*</span> Mandatory field</h4>
+        <h3>Information</h3>
+        <form class="registration__form" action="./scripts/register.php" method="get">
+            <div>
+                <label for="intake-type">Intake Type<span>* (select)</span></label>
+                <input class="form__intake-type" type="text" id="intake-type" name="intake-type" required/>
+            </div>
+            <!-- сделать неактивным поле -->
+            <div>
+                <label for="initiation-date">Enrollment Initiation Date (Optional)</label>
+                <input
+                    type="datetime"
+                    id="initiation-date"
+                    name="initiation-date"
+                    value="05/11/2021"
+                    readonly="readonly"
+                />
+            </div>
+            <div>
+                <label for="phone">phone</label>
+                <input class="form__phone" type="tel" id="phone" name="phone" />
+            </div>
+            <div>
+                <label for="application-category">Application Category<span>*</span></label>
+                <input type="text" id="application-category" name="application-category" />
+            </div>
+            <div>
+                <label for="email">email</label>
+                <input type="email" id="email" name="email" />
+            </div>
+            <div>
+                <label for="submission-date">Enrollment Submission Date (Optional)</label>
+                <input
+                    type="datetime"
+                    id="submission-date"
+                    name="submission-date"
+                    value="05/11/2021"
+                    readonly="yes"
+                />
+            </div>
+            <div>
+                <label for="application-registration">Application Registration (Optional)</label>
+                <input type="text" id="application-registration" name="application-registration" placeholder="APP0000116">
+            </div>
+            <div></div>
+            <div>
+                <label for="additional-information-requested-date">Additional Information Requested Date (Optional)</label>
+                <input 
+                    type="datetime" 
+                    id="additional-information-requested-date" 
+                    name="additional-information-requested-date" 
+                    value="05/13/2021"
+                />
+            </div>
+            <div>
+                <input
+                type="checkbox"
+                id="Purged"
+                name="Purged"
+                placeholder="Purged"
+                />
+                Purged
+            </div>
+            <div>
+                <label for="remaining-days-before-referral-is-purged">Remaining Days Before Referral is Purged (Optional)</label>
+                <input type="text" id="remaining-days-before-referral-is-purged" name="remaining-days-before-referral-is-purged" placeholder="13">
+            </div>
+            <div>
+                <label for="exempt-from-paternity">Exempt from Paternity (Optional)   (select)</label>
+                <input type="text" id="exempt-from-paternity" name="exempt-from-paternity" placeholder="No">
+            </div>
+            <div>
+                <label for="fee-payment-date">Fee Payment Date (Optional)</label>
+                <input 
+                    type="datetime" 
+                    id="fee-payment-date" 
+                    name="fee-payment-date"
+                    value="05/13/2021" 
+                />
+            </div>
+            <div>
+                <label for="enrollment-status">Enrollment Status (Optional)</label>
+                <input type="text" id="enrollment-status" name="enrollment-status">
+            </div>
+            <div>
+                <input
+                type="checkbox"
+                id="application-fee-processed"
+                name="application-fee-processed"
+                placeholder="application-fee-processed"
+                checked
+                />
+                Application Fee Processed
+            </div>
+            <hr class="line">
+        </form>
+        <hr>
+        <h3>Maternity Information</h3>
+        <!-- chekbox + field -->
+        <hr>
+        <h3>Official Use</h3>
+        <form action=""></form>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div>
+            <label for="password">Пароль</label>
+            <input type="password" id="password" name="password" />
+            </div>
+            <div>
+            <label for="siteadress">Адрес сайта</label>
+            <input
+                type="url"
+                id="siteadress"
+                name="siteadress"
+                value="mysite.name"
+            />
+            </div>
+            <div>
+            <label for="gender">Ваш пол:</label>
+            <div class="gender">
+                <input
+                placeholder="Мужской"
+                checked
+                type="radio"
+                name="gender"
+                value="male"
+                />
+                Мужской
+                <input
+                placeholder="Женский"
+                type="radio"
+                name="gender"
+                value="female"
+                />
+                Женский
+            </div>
+            </div>
+
+            <div>
+            <label for="cookpref">Выберете предпочитаемую кухню:</label>
+            <div class="cooking">
+                <input
+                type="checkbox"
+                id="cookeuropean"
+                name="cookpref"
+                placeholder="Европейская"
+                />
+                Европейская<br />
+                <input
+                type="checkbox"
+                id="cookindian"
+                name="cookpref"
+                placeholder="Индийская"
+                />
+                Индийская <br />
+                <input
+                type="checkbox"
+                id="cookasian"
+                name="cookpref"
+                placeholder="Восточная"
+                />
+                Восточная <br />
+                <input
+                type="checkbox"
+                id="cookfastfood"
+                name="cookpref"
+                placeholder="Фастфуд"
+                />
+                Фастфуд
+            </div>
+            </div>
+            <div>
+            <label for="aboutme">О себе:</label>
+            <textarea id="aboutme" name="aboutme" rows="4" cols="50"></textarea
+            ><br />
+            </div>
+            <div>
+            <input type="submit" value="Зарегистрироваться" />
+            <input type="reset" value="Очистить форму" /><br />
+            </div>
+
+            <!--
+                
+            <div>
+            <label for="photo">Добавьте фотографию</label>
+            <input type="file" id="photo" name="photo" />
+            </div>
+
+            -->
+        
+        
+      
+  </body>
+</html>
