@@ -21,7 +21,7 @@ public class Third {
 		
 		if (sideA <= 0 || sideB <= 0 || sideC <= 0) {
 			System.out.println("The triangle doesn't exist");
-		} else if (((sideA + sideB) <= sideC) && ((sideB + sideC) <= sideA) && ((sideA + sideC) <= sideB)) {
+		} else if (((sideA + sideB) > sideC) && ((sideB + sideC) > sideA) && ((sideA + sideC) > sideB)) {
 			System.out.println("The triangle doesn't exist");
 		} else {
 			System.out.println("The triangle exist");
