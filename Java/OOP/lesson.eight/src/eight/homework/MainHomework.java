@@ -110,6 +110,7 @@ public class MainHomework {
 		
 		//________________________HW8________________________________
 		gr.checkDuplicatesStudents();
+		gr.checkDuplicatesStudents();
 	}
 
 }
