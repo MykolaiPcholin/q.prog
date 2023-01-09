@@ -64,9 +64,7 @@ public class Group{
 		Arrays.sort(students, Comparator.nullsFirst(new StudentsNameComparator()));
 		
 		for (int i = 0; i < students.length; i++) {
-			if (students[i] != null) {
-				System.out.println(students[i]);
-			}
+			System.out.println(students[i]);
 		}
 	}
 	
