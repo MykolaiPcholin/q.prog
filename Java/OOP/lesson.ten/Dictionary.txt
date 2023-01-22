@@ -1,0 +1,230 @@
+return;повернення
+rotate;обертати
+instance;екземпляр
+conscience;совість
+thrill;трепет
+serve;служити
+cough;кашель
+astound;вразити
+drown;потонути
+blade;лезо
+speak out;висловитися
+lay off;звільняти
+make fun of;сміятися з
+solution;рішення
+fine;добре
+diverge;розходяться
+leaf (pl: leaves);лист (pl: листя)
+point out;вказати
+host;хост
+accelerate;прискорити
+jolly;веселий
+citizen;громадянин
+clutter;безлад
+turtle;черепаха
+crackle;тріск
+enrol (enroll);зарахувати (зарахувати)
+noodles;локшина
+occur;відбуваються
+hose;шланг
+show up;з'являтися
+film;фільм
+trash;сміття
+convenient;зручний
+horn;ріг
+task;завдання
+watercolor;акварель
+infer;зробити висновок
+adolescent;підліток
+sore;болить
+valley;долина
+present;присутній
+glow;світіння
+petty;дріб'язковий
+curtain;штора
+laughter;сміх
+since;оскільки
+sentiment;почуття
+face up to;обличчям до
+groove;паз
+go on;продовжуй
+mess;безлад
+sour;кислий
+advise;порадити
+step in;втручатися
+magnitude;величина
+genuine;справжній
+agitate;агітувати
+mesh;сітка
+spokesman;прес-секретар
+equation;рівняння
+stern;суворий
+compound;з'єднання
+master;майстер
+underlie;лежать в основі
+spawn;нереститися
+conventional;звичайний
+complicate;ускладнювати
+puzzle;головоломка
+read out;зачитати
+evident;очевидний
+mere;просто
+suburb;передмістя
+socket;гніздо
+hypocrite;лицемір
+fence;паркан
+annoy;дратувати
+glue;клей
+credible;достовірний
+let off;відпустити
+scream;кричати
+keep out of;триматися подалі від
+cover;кришка
+firm;фірма
+reflect;відображати
+ongoing;триває
+outfit;наряд
+constellation;сузір'я
+massacre;різанина
+ignorant;невіглас
+extort;вимагати
+deer (pl:deer);олень (pl:deer)
+covet;жадати
+backdrop;фон
+distinguish;розрізняти
+haircut;стрижка
+howl;виття
+settle on;зупинитися на
+rude;грубий
+fray;битися
+thereby;таким чином
+wield;володіти
+funeral;похорон
+except;крім
+concur;згоден
+shower;душ
+nevertheless;тим не менш
+prominent;видатний
+manure;гній
+jewel;дорогоцінний камінь
+fist;кулак
+fret;нервувати
+vomit;блювота
+bring in;приносити
+entitle;право
+outline;контур
+fade;зникають
+unless;хіба що
+excess;надлишок
+thrift;ощадливість
+retaliate;мстити
+free;безкоштовно
+ought;слід
+invade;вторгнутися
+weary;втомлений
+trousers;штани
+clump;грудка
+thorough;ретельний
+peninsula;півострів
+evolve;розвиватися
+face;обличчя
+feed on;харчуватися
+fight off;відбиватися
+afraid;боїться
+household;побутові
+invite;запросити
+adverse;несприятливий
+throw up;кидати
+ratio;співвідношення
+junction;перехрестя
+crumble;розсипатися
+cannon;гармати
+shrug;знизати плечима
+inside;всередині
+shrub;чагарник
+spike;шип
+sit back;байдикувати
+budge;зрушити з місця
+restrain;стримувати
+awkward;незручно
+ruin;руїна
+beforehand;заздалегідь
+celebrate;святкувати
+spill;розлив
+take aback;збентежитись
+cradle;колиска
+please;будь ласка
+plumbing;сантехніка
+coconut;кокосовий горіх
+hunger;голод
+squad;загін
+go along;йти разом
+inspect;оглядати
+look after;доглядати
+salvage;порятунок
+vital;життєво важливий
+put away;Прибрати
+gulp;ковток
+delusion;марення
+rough;грубий
+squat;присідати
+lawsuit;позов
+detect;виявити
+rule;правило
+update;оновлення
+amateur;аматорський
+purge;чистка
+condemn;засуджувати
+get off;зійти
+talk over;обговорювати
+clear out;прибирати
+gulf;затока
+moron;виродок
+wonder;дивуватися
+sneeze;чхати
+jumper;джемпер
+mansion;особняк
+shave;голитися
+summary;резюме
+accustom;привчати
+akin;споріднений
+settle in;оселитися в
+entail;тягне за собою
+inferior;неповноцінний
+refuge;притулок
+again;знову
+commend;хвалити
+spine;хребет
+indeed;дійсно
+mosquito;комар
+artificial;штучні
+liven up;оживити
+transcend;переступати
+sting (stung, stung);жалити (жалити, жалити)
+coerce;примушувати
+employ;найняти
+sturdy;міцний
+kick back;удар назад
+fable;байка
+during;протягом
+fair;ярмарок
+prick;укол
+compatible;сумісний
+enable;включити
+dependent;залежний
+grind (ground, groud);подрібнити (змолоти, подрібнити)
+crest;гребінь
+provisional;тимчасовий
+ask around;розпитати
+compress;компрес
+out loud;вголос
+fruitless;безплідний
+cherish;плекати
+resilient;пружний
+agree;згоден
+eminent;видатний
+underneath;внизу
+fail;провал
+discrepancy;невідповідність
+emperor;імператор
+pride;гордість
